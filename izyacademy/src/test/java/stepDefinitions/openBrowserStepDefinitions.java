@@ -13,7 +13,7 @@ public class openBrowserStepDefinitions {
     }
     @Given("the enter user page")
     public void theEnterUserPage() {
-        goPage.opBrowser("https://www.google.com/?hl=es");
+        goPage.opBrowser("https://conduit-realworld-example-app.fly.dev/#/");
     }
 
 

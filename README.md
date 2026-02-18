@@ -1,2 +1,2 @@
-# POM_IzyAcademy
+# POM_Excel
 Ejercicio realizado con Selenium Webdriver con excel
